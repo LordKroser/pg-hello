@@ -20,3 +20,9 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function personalinfo(){
+	info = 'Przemysław Krzyżak nr albumu 209817'
+	navigator.notification.alert(info);
+	
+}
